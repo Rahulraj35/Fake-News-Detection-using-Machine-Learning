@@ -1,10 +1,10 @@
 # Fake-News-Detection-using-Machine-Learning
 
-Dataset
+# Dataset
    ↓
-Data Cleaning
+# Data Cleaning
    ↓
-EDA
+# EDA
    ↓
 Text Preprocessing
    ↓
@@ -33,5 +33,4 @@ New News Prediction
 Conclusion
 
 
-## Future Improvements
 
