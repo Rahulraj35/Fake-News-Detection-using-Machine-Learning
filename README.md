@@ -6,31 +6,31 @@
    ↓
 # EDA
    ↓
-Text Preprocessing
+# Text Preprocessing
    ↓
-TF-IDF
+# TF-IDF
    ↓
-Train/Test Split
+# Train/Test Split
    ↓
-Logistic Regression
+# Logistic Regression
    ↓
-Naive Bayes
+# Naive Bayes
    ↓
-Decision Tree
+# Decision Tree
    ↓
-Random Forest
+# Random Forest
    ↓
-SVM
+# SVM
    ↓
-Accuracy / Precision / Recall / F1
+# Accuracy / Precision / Recall / F1
    ↓
-Confusion Matrix
+# Confusion Matrix
    ↓
-Model Comparison
+# Model Comparison
    ↓
-New News Prediction
+# New News Prediction
    ↓
-Conclusion
+# Conclusion
 
 
 
