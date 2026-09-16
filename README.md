@@ -1,2 +1,30 @@
 # Fake-News-Detection-using-Machine-Learning
-A machine learning project for detecting fake and real news articles using TF-IDF and classification algorithms.
+
+# Fake News Detection Using Machine Learning
+
+## Project Overview
+
+## Objective
+
+## Dataset
+
+## Technologies Used
+
+## Project Workflow
+
+## Data Preprocessing
+
+## TF-IDF Vectorization
+
+## Machine Learning Models
+
+## Model Evaluation
+
+## Results
+
+## Sample Prediction
+
+## Conclusion
+
+## Future Improvements
+
